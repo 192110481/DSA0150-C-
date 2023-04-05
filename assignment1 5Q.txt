@@ -1,0 +1,21 @@
+Find errors, if any, in the following c++ statements.
+(a) long Boat x.;
+ans.."long x;"
+(b) char *cp = vp;
+ans..char *cp = vp;,vp is type char
+(c)int  code=three;
+ans..three is not declared
+(d)int *p=new;
+ans..int *p=new int
+(e)int const *p=total
+ans..no error
+(g)coast int  array_size;
+ans..const int  array_size;
+(h)int & nurnber = 100;
+ans..int number = 100
+(i) float p=2345;
+ans..float p=2345, no error
+(j) int else=234;
+ans..else cannot be used as variable name
+(k) char a=’welcome’;
+ans.."char a[]={'w','e','l','c','o','m','e'}";
