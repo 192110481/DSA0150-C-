@@ -1,0 +1,12 @@
+ (a) .couit.<< "x=" x;
+Ans: cout<<"x="<<x;
+b.m= 5;// n=10’//s= m
+Ans: m=5//n=10//s=m
+c. cin>>x;>>y;
+Ans: cin>>x>>y;
+d. cout<<\n “Name”<<name;
+Ans: cout<<“\nName”<<name;
+e. cout<<”enter the value”>>x;
+Ans: cout<<”enter the value”<<x;
+f.  /* addition */ z=x+y;
+Ans: /* addition */ z=x+y;
